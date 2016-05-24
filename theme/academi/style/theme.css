@@ -1,3 +1,22 @@
+.infoarea {
+    float: right !important;
+    position: relative;
+    right: -139%;
+}
+.foot-links {
+    position: relative;
+    right: 61%;
+}
+.contact-info {
+    position: relative;
+    right: 233%;
+}
+#footer .social-media {
+    position: relative;
+    right: 236%;
+}
+
+
 body {
 		font-family: Century Gothic, Arial, Helvetica, sans-serif;
 		color: #656565;
